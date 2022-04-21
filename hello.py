@@ -1,5 +1,6 @@
 def main(words):
     print(words)
+    
     expand(words)
 
 def expand(words_expand):

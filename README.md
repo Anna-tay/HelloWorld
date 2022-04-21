@@ -3,7 +3,7 @@
 
 This is a terditional hello world program. Just wanted to make sure all my git and github is working.I made my progam print hello world in two different way for fun.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/iJTWaGN7bsA)
 <!-- make a video of the project and post it here! -->
 # Development Environment
 
